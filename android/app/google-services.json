@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "294831947194",
+    "project_id": "bwa-flutix-d5326",
+    "storage_bucket": "bwa-flutix-d5326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294831947194:android:ca9a96f587a794150af183",
+        "android_client_info": {
+          "package_name": "com.example.bwa_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294831947194-k04dvc43fvmo3kvuha9h7li1g1tfg6q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNkwrAjrhauFOOO3HbzZy5J0Ficimj58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294831947194-k04dvc43fvmo3kvuha9h7li1g1tfg6q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294831947194:android:e5cca9547517996f0af183",
+        "android_client_info": {
+          "package_name": "com.example.bwa_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294831947194-k04dvc43fvmo3kvuha9h7li1g1tfg6q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNkwrAjrhauFOOO3HbzZy5J0Ficimj58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294831947194-k04dvc43fvmo3kvuha9h7li1g1tfg6q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
